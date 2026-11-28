@@ -10,11 +10,16 @@ using System.Windows.Forms;
 
 namespace Manav_otomasyonu
 {
-    public partial class Form1 : Form
+    public partial class Form_giris : Form
     {
-        public Form1()
+        public Form_giris()
         {
             InitializeComponent();
+        }
+
+        private void Form_giriş_Load(object sender, EventArgs e)
+        {
+
         }
     }
 }
